@@ -29,7 +29,7 @@ python3
 >>> IBMQ.save_account('MY_API_TOKEN')
 >>> quit()
 ```
-
+##Import jquery,css, bootstrap and set image repo for web page access(can be in seprate static folder)
 ## Run Application
 
 With the terminal window open, type the below command to run your qapp.
